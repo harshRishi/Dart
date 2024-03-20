@@ -1,4 +1,5 @@
 void main() {
+  // Animal animal = Animal(); // Error abstract classes can be instantiated
   Animal animal = Cat();
   animal.sound();
 
